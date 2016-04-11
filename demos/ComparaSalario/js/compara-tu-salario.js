@@ -88,7 +88,7 @@
         resultChart2 = new CountUp('vis2', 0, time2);
 
 
-        var baseUrl = 'http://twitter.com/share?via=RedxGuate&url=http://goo.gl/Sol3Sv&text=';
+        var baseUrl = 'http://twitter.com/share?via=JulioHerrera&url=http://bit.ly/1UWNyiU&text=';
 
         $('#tweet1').attr(
           'href',
