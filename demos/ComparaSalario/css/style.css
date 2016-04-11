@@ -1,6 +1,6 @@
 
 html {
-  background-color: #292929;
+  background-color: #666;
 }
 
 body {
@@ -120,7 +120,7 @@ nav ul.nav.nav-tabs li a.active {
 }
 
 footer {
-  background: #292929;
+  background: #666;
   font-weight: normal;
   margin-top: 50px;
   padding: 0;
