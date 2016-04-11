@@ -1,6 +1,6 @@
 
 html {
-  background-color: #783c8f;
+  background-color: #292929;
 }
 
 body {
@@ -103,7 +103,7 @@ footer p {
   color: #fff;
   border-style: none;
   background-image: none;
-  background-color: #783c8f;
+  background-color: #292929;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -120,7 +120,7 @@ nav ul.nav.nav-tabs li a.active {
 }
 
 footer {
-  background: #783c8f;
+  background: #292929;
   font-weight: normal;
   margin-top: 50px;
   padding: 0;
