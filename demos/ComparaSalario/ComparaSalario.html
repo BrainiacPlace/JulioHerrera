@@ -44,111 +44,122 @@
 <body>
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
   
+		<!--Beginning of Menu-->
+		<div class="nav-container">
+		<nav>
+		        <div class="nav-bar text-center">
+		            <div class="col-md-2 col-md-push-5 col-sm-12 text-center">
+		                <a href="#">
+		                    <div class="vnu"><img alt="logo" class="image-xxs" src="img/LogoJulio.png"></div>
+		                </a>
+		            </div>
+		
+		            <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
+		                <ul class="menu inline-block pull-right">
+		                    <li>
+		                    	<a href="index.html" class="inner-link" target="_self">Home</a>
+		                    </li>
+		                    
+		                    <li class="toggle-sub">
+		                    	<a href="#about-me" class="inner-link" target="_self">About Me</a>
+		                        <ul>
+		                        	<li>
+		                        	<a href="https://gt.linkedin.com/in/julio-herrera-toledo-044a0516" target="_self">Resume&nbsp;</a>
+		                        	</li>
+		                       	</ul>
+		                    </li>
+		                </ul>
+		            </div>
+		            <div class="col-sm-12 col-md-5 pb-xs-24">
+		                <ul class="menu">
+		                    <li>
+		                    	<a href="#projects" class="inner-link" target="_self">Projects</a>
+		                    </li>
+		                    <li>
+		                    	<a href="#contact" class="inner-link" target="_self">Contact</a>
+		                    </li>
+		                </ul>
+		            </div>
+		        </div>
+		
+		        <div class="module widget-handle mobile-toggle right visible-sm visible-xs absolute-xs">
+		            <i class="ti-menu"></i>
+		        </div>
+		    </nav>
+		</div>
+		<!--End of Menu-->
 
 
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <a href="/">
-      <img src="img/LOGOTIPO10px.png" class="logo-img pull-left" />
-    </a>
-    <nav class="navbar-collapse collapse">
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-            <a class="hoverless-anchor" href="http://comunicaton.adondevanmisimpuestos.gt/">
-              <img src="img/ÍCONOS/ICONOS-05.png" style="height: 24px; width: 24px;"> Comunicaton
-            </a>
-        </li>
-        <li>
-            <a class="hoverless-anchor" href="glosario.html">
-              <img src="img/ÍCONOS/ICONOS-06.png" style="height: 24px; width: 24px;"> Glosario
-            </a>
-        </li>
-        <li>
-            <a class="hoverless-anchor" href="inFormacion.html">
-              <img src="img/ÍCONOS/ICONOS-08.png" style="height: 24px; width: 24px;"> inFormación
-            </a>
-        </li>
-        <li>
-            <a class="hoverless-anchor" href="metodologia.html">
-              <img src="img/ÍCONOS/ICONOS-07.png" style="height: 24px; width: 24px;"> Metodología
-            </a>
-        </li>
-      </ul>
-    </nav>
-  </div>
-</nav>
-</div>
 
-<div class="container">
-  <div class="content-container">
-
-  <h2 class="main-header">Compara <b>tu salario</b></h2>
-
-<h3 class="text-center">
-  ¿Cuánto tiempo necesitarías trabajar para obtener el ingreso mensual declarado
-  por un funcionario público?
-</h3>
-
-<div class="row spaced">
-  <div class="col-md-10 col-md-offset-1">
-    <div class="form-group">
-      <label for="tu-salario">Ingresa tu salario</label>
-      <input id="tu-salario" class="form-control" placeholder="Ingresa tu salario en Quetzales"/>
+    <div class="container">
+      <div class="content-container">
+    
+      <h2 class="main-header">Compara <b>tu salario</b></h2>
+    
+    <h3 class="text-center">
+      ¿Cuánto tiempo necesitarías trabajar para obtener el ingreso mensual declarado
+      por un funcionario público?
+    </h3>
+    
+    <div class="row spaced">
+      <div class="col-md-10 col-md-offset-1">
+        <div class="form-group">
+          <label for="tu-salario">Ingresa tu salario</label>
+          <input id="tu-salario" class="form-control" placeholder="Ingresa tu salario en Quetzales"/>
+        </div>
+        <div class="form-group">
+          <label for="funcionario">Selecciona un funcionario</label>
+          <select class="form-control" id="funcionario-select">
+          </select>
+        </div>
+        <div class="form-group text-center">
+          <button id="calcular-btn" class="btn">Comparar</button>
+        </div>
+      </div>
     </div>
-    <div class="form-group">
-      <label for="funcionario">Selecciona un funcionario</label>
-      <select class="form-control" id="funcionario-select">
-      </select>
+    
+    <div id="funcionario-container" class="row spaced" style="display: none;">
+    
+      <div class="col-md-4">
+        <h6 class="text-center" style="font-weight:bold; font-weight: bold;">
+          <span class="funcionario"></span>
+        </h6>
+    
+        <h6 class="text-center">
+          Puesto: <span class="puesto"></span>
+        </h6>
+    
+        <div class="text-center">
+          <img id="img-funcionario" src="img/Compara/candidate-default.jpg" style="width: 150px;">
+        </div>
+    
+        <h5 class="text-center sueldo-label"> Q. <span class="sueldo"></span></h5>
+    
+        <h6 class="text-center sueldo-label" style="font-weight:bold;">Ingreso Promedio Mensual</h6>
+      </div>
+    
+      <div class="col-md-4 text-center">
+        <div class="text-center" style="margin-top: 45px;">
+          <a id="tweet1" style="color: #039be5;" class="popup">
+            <i class="fa fa-twitter fa-4x"></i>
+          </a>
+        </div>
+        Yo tendría que trabajar <strong><span id="vis1"></span></strong> para obtener el ingreso mensual
+        del funcionario <span class="funcionario-nombre"></span>
+      </div>
+    
+      <div class="col-md-4">
+        <div class="text-center" style="margin-top: 45px;">
+          <a id="tweet2" style="color: #039be5;" class="popup">
+            <i class="fa fa-twitter fa-4x"></i>
+          </a>
+        </div>
+        Una persona con el salario mínimo tendría que trabajar <strong><span id="vis2"></span></strong>
+        para obtener el ingreso mensual del funcionario <span class="funcionario-nombre"></span>
+      </div>
     </div>
-    <div class="form-group text-center">
-      <button id="calcular-btn" class="btn">Comparar</button>
     </div>
-  </div>
-</div>
-
-<div id="funcionario-container" class="row spaced" style="display: none;">
-
-  <div class="col-md-4">
-    <h6 class="text-center" style="font-weight:bold; font-weight: bold;">
-      <span class="funcionario"></span>
-    </h6>
-
-    <h6 class="text-center">
-      Puesto: <span class="puesto"></span>
-    </h6>
-
-    <div class="text-center">
-      <img id="img-funcionario" src="img/Compara/candidate-default.jpg" style="width: 150px;">
     </div>
-
-    <h5 class="text-center sueldo-label"> Q. <span class="sueldo"></span></h5>
-
-    <h6 class="text-center sueldo-label" style="font-weight:bold;">Ingreso Promedio Mensual</h6>
-  </div>
-
-  <div class="col-md-4 text-center">
-    <div class="text-center" style="margin-top: 45px;">
-      <a id="tweet1" style="color: #039be5;" class="popup">
-        <i class="fa fa-twitter fa-4x"></i>
-      </a>
-    </div>
-    Yo tendría que trabajar <strong><span id="vis1"></span></strong> para obtener el ingreso mensual
-    del funcionario <span class="funcionario-nombre"></span>
-  </div>
-
-  <div class="col-md-4">
-    <div class="text-center" style="margin-top: 45px;">
-      <a id="tweet2" style="color: #039be5;" class="popup">
-        <i class="fa fa-twitter fa-4x"></i>
-      </a>
-    </div>
-    Una persona con el salario mínimo tendría que trabajar <strong><span id="vis2"></span></strong>
-    para obtener el ingreso mensual del funcionario <span class="funcionario-nombre"></span>
-  </div>
-</div>
-
-  </div>
-  </div>
 
 
 <br />
