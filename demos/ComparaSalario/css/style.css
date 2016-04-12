@@ -88,13 +88,6 @@ a {
  * Nav and Footer styles based on OKFN brand design. 
  */
 
-nav ul li, 
-footer,
-footer p {
-  font-size: 13px;
-  line-height: 18px;
-}
-
 .hoverless-anchor:hover{
   text-decoration: none;
 }
