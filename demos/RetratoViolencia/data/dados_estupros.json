@@ -1,0 +1,530 @@
+{
+    "430101": {
+        "anos": {
+            "2006": 7,
+            "2007": 10,
+            "2008": 14,
+            "2009": 16,
+            "2010": 14,
+            "2011": 34,
+            "2012": 4
+        },
+        "local": {
+            "residencia": 67,
+            "via_publica": 7
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 18,
+        "nome": "Quiché",
+        "ocorrencias": 99,
+        "opacity": 0.3846393468196531,
+        "pela_manha": 57,
+        "populacao": 157299,
+        "proporcao": 62,
+        "range": 1
+    },
+    "430102": {
+        "anos": {
+            "2006": 14,
+            "2007": 12,
+            "2008": 23,
+            "2009": 8,
+            "2010": 26,
+            "2011": 14,
+            "2012": 4
+        },
+        "local": {
+            "residencia": 63,
+            "via_publica": 6
+        },
+        "media_idade_autor": 33,
+        "media_idade_vitima": 18,
+        "nome": "Zacapa",
+        "ocorrencias": 101,
+        "opacity": 0.42923475851628057,
+        "pela_manha": 62,
+        "populacao": 143804,
+        "proporcao": 70,
+        "range": 2
+    },
+    "430103": {
+        "anos": {
+            "2006": 16,
+            "2007": 23,
+            "2008": 15,
+            "2009": 19,
+            "2010": 23,
+            "2011": 21,
+            "2012": 6
+        },
+        "local": {
+            "residencia": 79,
+            "via_publica": 14
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 21,
+        "nome": "Jutiapa",
+        "ocorrencias": 123,
+        "opacity": 0.43048013580767375,
+        "pela_manha": 69,
+        "populacao": 174621,
+        "proporcao": 70,
+        "range": 2
+    },
+    "430104": {
+        "anos": {
+            "2006": 21,
+            "2007": 19,
+            "2008": 14,
+            "2009": 19,
+            "2010": 27,
+            "2011": 22,
+            "2012": 5
+        },
+        "local": {
+            "residencia": 78,
+            "via_publica": 20
+        },
+        "media_idade_autor": 32,
+        "media_idade_vitima": 19,
+        "nome": "Jalapa",
+        "ocorrencias": 127,
+        "opacity": 0.36665542193094924,
+        "pela_manha": 64,
+        "populacao": 211685,
+        "proporcao": 59,
+        "range": 1
+    },
+    "430105": {
+        "anos": {
+            "2006": 6,
+            "2007": 9,
+            "2008": 3,
+            "2009": 7,
+            "2010": 10,
+            "2011": 4,
+            "2012": 2
+        },
+        "local": {
+            "residencia": 24,
+            "via_publica": 6
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 21,
+        "nome": "Chiquimula",
+        "ocorrencias": 41,
+        "opacity": 0.4132424715916099,
+        "pela_manha": 23,
+        "populacao": 60635,
+        "proporcao": 67,
+        "range": 2
+    },
+    "430106": {
+        "anos": {
+            "2006": 7,
+            "2007": 8,
+            "2008": 8,
+            "2009": 6,
+            "2010": 7,
+            "2011": 14,
+            "2012": 2
+        },
+        "local": {
+            "residencia": 28,
+            "via_publica": 2
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 21,
+        "nome": "Izabal",
+        "ocorrencias": 52,
+        "opacity": 0.4809618699289528,
+        "pela_manha": 34,
+        "populacao": 66075,
+        "proporcao": 78,
+        "range": 2
+    },
+    "430107": {
+        "anos": {
+            "2006": 18,
+            "2007": 26,
+            "2008": 26,
+            "2009": 30,
+            "2010": 25,
+            "2011": 48,
+            "2012": 7
+        },
+        "local": {
+            "residencia": 118,
+            "via_publica": 14
+        },
+        "media_idade_autor": 33,
+        "media_idade_vitima": 17,
+        "nome": "Santa Rosa",
+        "ocorrencias": 180,
+        "opacity": 0.5583671913983466,
+        "pela_manha": 92,
+        "populacao": 197014,
+        "proporcao": 91,
+        "range": 2
+    },
+    "430108": {
+        "anos": {
+            "2006": 12,
+            "2007": 15,
+            "2008": 23,
+            "2009": 18,
+            "2010": 30,
+            "2011": 31,
+            "2012": 12
+        },
+        "local": {
+            "residencia": 93,
+            "via_publica": 10
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 18,
+        "nome": "El Progreso",
+        "ocorrencias": 141,
+        "opacity": 0.46848115766990606,
+        "pela_manha": 72,
+        "populacao": 183938,
+        "proporcao": 76,
+        "range": 2
+    },
+    "430109": {
+        "anos": {
+            "2006": 21,
+            "2007": 15,
+            "2008": 13,
+            "2009": 19,
+            "2010": 31,
+            "2011": 41,
+            "2012": 5
+        },
+        "local": {
+            "residencia": 93,
+            "via_publica": 15
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 17,
+        "nome": "Totonicapán",
+        "ocorrencias": 145,
+        "opacity": 0.5539162048997592,
+        "pela_manha": 102,
+        "populacao": 159981,
+        "proporcao": 90,
+        "range": 2
+    },
+    "430110": {
+        "anos": {
+            "2006": 49,
+            "2007": 39,
+            "2008": 37,
+            "2009": 39,
+            "2010": 43,
+            "2011": 49,
+            "2012": 14
+        },
+        "local": {
+            "residencia": 181,
+            "via_publica": 29
+        },
+        "media_idade_autor": 32,
+        "media_idade_vitima": 16,
+        "nome": "Sololá",
+        "ocorrencias": 270,
+        "opacity": 0.5034176508772119,
+        "pela_manha": 141,
+        "populacao": 327778,
+        "proporcao": 82,
+        "range": 2
+    },
+    "430111": {
+        "anos": {
+            "2006": 27,
+            "2007": 12,
+            "2008": 18,
+            "2009": 19,
+            "2010": 39,
+            "2011": 24,
+            "2012": 15
+        },
+        "local": {
+            "residencia": 96,
+            "via_publica": 10
+        },
+        "media_idade_autor": 33,
+        "media_idade_vitima": 19,
+        "nome": "Sacatepéquez",
+        "ocorrencias": 154,
+        "opacity": 0.6264860717196817,
+        "pela_manha": 84,
+        "populacao": 150229,
+        "proporcao": 102,
+        "range": 3
+    },
+    "430112": {
+        "anos": {
+            "2006": 3,
+            "2007": 8,
+            "2008": 3,
+            "2009": 4,
+            "2010": 5,
+            "2011": 4,
+            "2012": 1
+        },
+        "local": {
+            "residencia": 19,
+            "via_publica": 5
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 18,
+        "nome": "Suchitepéquez",
+        "ocorrencias": 28,
+        "opacity": 0.4052399738572093,
+        "pela_manha": 12,
+        "populacao": 42227,
+        "proporcao": 66,
+        "range": 2
+    },
+    "430113": {
+        "anos": {
+            "2006": 19,
+            "2007": 16,
+            "2008": 14,
+            "2009": 21,
+            "2010": 17,
+            "2011": 21,
+            "2012": 9
+        },
+        "local": {
+            "residencia": 78,
+            "via_publica": 11
+        },
+        "media_idade_autor": 32,
+        "media_idade_vitima": 18,
+        "nome": "Guatemala",
+        "ocorrencias": 117,
+        "opacity": 1.0,
+        "pela_manha": 62,
+        "populacao": 71504,
+        "proporcao": 163,
+        "range": 5
+    },
+    "430214": {
+        "anos": {
+            "2006": 9,
+            "2007": 13,
+            "2008": 8,
+            "2009": 13,
+            "2010": 22,
+            "2011": 23,
+            "2012": 2
+        },
+        "local": {
+            "residencia": 47,
+            "via_publica": 8
+        },
+        "media_idade_autor": 31,
+        "media_idade_vitima": 18,
+        "nome": "Escuintla",
+        "ocorrencias": 90,
+        "opacity": 0.432301972940015,
+        "pela_manha": 52,
+        "populacao": 127233,
+        "proporcao": 70,
+        "range": 2
+    },
+    "430215": {
+        "anos": {
+            "2006": 26,
+            "2007": 16,
+            "2008": 22,
+            "2009": 21,
+            "2010": 31,
+            "2011": 43,
+            "2012": 15
+        },
+        "local": {
+            "residencia": 115,
+            "via_publica": 13
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 17,
+        "nome": "Chimaltenango",
+        "ocorrencias": 174,
+        "opacity": 0.6755861200312704,
+        "pela_manha": 98,
+        "populacao": 157403,
+        "proporcao": 110,
+        "range": 3
+    },
+    "430216": {
+        "anos": {
+            "2006": 68,
+            "2007": 52,
+            "2008": 62,
+            "2009": 73,
+            "2010": 84,
+            "2011": 83,
+            "2012": 25
+        },
+        "local": {
+            "residencia": 293,
+            "via_publica": 57
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 18,
+        "nome": "Alta Verapaz",
+        "ocorrencias": 447,
+        "opacity": 0.35491634323399096,
+        "pela_manha": 251,
+        "populacao": 769708,
+        "proporcao": 58,
+        "range": 1
+    },
+    "430317": {
+        "anos": {
+            "2006": 9,
+            "2007": 15,
+            "2008": 12,
+            "2009": 12,
+            "2010": 22,
+            "2011": 33,
+            "2012": 10
+        },
+        "local": {
+            "residencia": 69,
+            "via_publica": 15
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 17,
+        "nome": "San Marcos",
+        "ocorrencias": 113,
+        "opacity": 0.6238204473498592,
+        "pela_manha": 67,
+        "populacao": 110704,
+        "proporcao": 102,
+        "range": 3
+    },
+    "430318": {
+        "anos": {
+            "2006": 37,
+            "2007": 36,
+            "2008": 28,
+            "2009": 37,
+            "2010": 66,
+            "2011": 58,
+            "2012": 17
+        },
+        "local": {
+            "residencia": 191,
+            "via_publica": 43
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 20,
+        "nome": "Retalhuleu",
+        "ocorrencias": 279,
+        "opacity": 0.46968442955551465,
+        "pela_manha": 141,
+        "populacao": 363030,
+        "proporcao": 76,
+        "range": 2
+    },
+    "430319": {
+        "anos": {
+            "2006": 5,
+            "2007": 9,
+            "2008": 10,
+            "2009": 12,
+            "2010": 13,
+            "2011": 23,
+            "2012": 2
+        },
+        "local": {
+            "residencia": 45,
+            "via_publica": 9
+        },
+        "media_idade_autor": 36,
+        "media_idade_vitima": 18,
+        "nome": "Quezaltenango",
+        "ocorrencias": 74,
+        "opacity": 0.7149706285255025,
+        "pela_manha": 40,
+        "populacao": 63254,
+        "proporcao": 116,
+        "range": 3
+    },
+    "430420": {
+        "anos": {
+            "2006": 40,
+            "2007": 39,
+            "2008": 49,
+            "2009": 57,
+            "2010": 84,
+            "2011": 83,
+            "2012": 17
+        },
+        "local": {
+            "residencia": 247,
+            "via_publica": 36
+        },
+        "media_idade_autor": 34,
+        "media_idade_vitima": 18,
+        "nome": "Petén",
+        "ocorrencias": 369,
+        "opacity": 0.7041525986136788,
+        "pela_manha": 210,
+        "populacao": 320261,
+        "proporcao": 115,
+        "range": 3
+    },
+    "430421": {
+        "anos": {
+            "2006": 23,
+            "2007": 20,
+            "2008": 28,
+            "2009": 32,
+            "2010": 54,
+            "2011": 65,
+            "2012": 17
+        },
+        "local": {
+            "residencia": 165,
+            "via_publica": 20
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 19,
+        "nome": "Huehuetenango",
+        "ocorrencias": 239,
+        "opacity": 0.47787746971456496,
+        "pela_manha": 133,
+        "populacao": 305651,
+        "proporcao": 78,
+        "range": 2
+    },
+    "430422": {
+        "anos": {
+            "2006": 17,
+            "2007": 14,
+            "2008": 14,
+            "2009": 18,
+            "2010": 32,
+            "2011": 35,
+            "2012": 7
+        },
+        "local": {
+            "residencia": 99,
+            "via_publica": 10
+        },
+        "media_idade_autor": 35,
+        "media_idade_vitima": 17,
+        "nome": "Baja Verapaz",
+        "ocorrencias": 137,
+        "opacity": 0.5473062229239507,
+        "pela_manha": 77,
+        "populacao": 152980,
+        "proporcao": 89,
+        "range": 2
+    }
+}
